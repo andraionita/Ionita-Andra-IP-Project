@@ -1,2 +1,10 @@
 # IP-Project
-At the beginning of year 1 of the Faculty we had to build a game in C/C++. I worked at this project together with Minut Mihai Dimitrie.
+# Impasu' game
+
+-An interactive application for a stalemate game / Complex Interface
+
+-Made by using: C++, CodeBlocks
+
+-Music, mute/unmute button, 3 levels for the game against computer
+
+-3 visual themes: Christmas, Mountain, Mario
